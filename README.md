@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+NAME:DEEPIKA P\
+REFERENCE NO:212223240024
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
